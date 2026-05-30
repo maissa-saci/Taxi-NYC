@@ -37,5 +37,4 @@ Télécharger un fichier `.parquet` mensuel et le placer dans `data/`.
 | 04 | `04_unsupervised_learning.ipynb` | Clustering |
 
 ## Auteur
-
-Maissa Saci — L3 DANT — 2026
+Sara AIT OUAHIOUNE 
